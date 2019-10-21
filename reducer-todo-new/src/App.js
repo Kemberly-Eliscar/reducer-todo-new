@@ -1,7 +1,7 @@
 import React, { useReducer } from 'react';
 import {reducer, initialState} from "./reducers/reducer";
 import './to_do_list.scss'
-//import 'semantic-ui-css/semantic.min/css'
+// import 'semantic-ui-css/semantic.min/css'
 
 import ToDoCard from './components/ToDoCard'
 
